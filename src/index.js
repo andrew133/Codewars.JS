@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-function pillars(num_pill, dist, width) {
-    // your code here
+function greet(name){
+    //your code here
+
+    return "Hello, " + greet(name) + "how are you doing today?"
 }
